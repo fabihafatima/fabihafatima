@@ -1,5 +1,5 @@
 # Hi, I'm Fabeha Fatima 👋  
-💻 **Software Engineer** | ⚙️ **Microservices Maestro** | 📄 **Resume Tuner by Day**, 🧠 **Leetcoder by Night**
+💻 **Software Engineer** | ⚙️ **Microservices Maestro** | 📄 **Resume Tuner by Day, Leetcoder by Night**
 
 ---
 
