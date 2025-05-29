@@ -88,9 +88,6 @@ Here are two of the major projects I completed recently:
  
 I enjoy reading across genres, meeting new people and learning from their experiences, and finding calm through mindful routines like journaling, walks, and coffee breaks — all while staying grounded in faith and personal growth.
 
-Let’s build, create, and make something meaningful together! 🌟
-
-
 ### 🤝 Let’s Connect  
 **Excited to collaborate on bold ideas, systems, or research!**  
  • [LinkedIn](https://www.linkedin.com/in/fabeha-fatima-37910b72/) • [GitHub](https://github.com/fabihafatima)
