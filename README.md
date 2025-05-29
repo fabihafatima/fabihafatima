@@ -48,7 +48,7 @@ I'm currently building [**UMate**](https://github.com/fabihafatima/UMateFinder) 
 
 ## 🚀 Other Cool Stuff I’ve Done
 
-- ✈️ Created an AI-powered [**Travel Planner**](https://github.com/fabihafatima/llms-to-the-rescue) using **Python, React, and Java Spring Boot**, generating personalized itineraries, destination suggestions, and packing checklists with **LLaMA 3.2**.
+- ✈️ Created an AI-powered [**Travel Planner**](https://github.com/fabihafatima/travel-planner) using **Python, React, and Java Spring Boot**, generating personalized itineraries, destination suggestions, and packing checklists with **LLaMA 3.2**.
 
 - 💳 Built [**FraudSpark**](https://github.com/fabihafatima/FraudSpark-Real-Time-Fraud-Detection-System), a real-time fraud detection system using **Kafka, PySpark**, and a **Random Forest Classifier**, optimized for imbalanced datasets to flag suspicious transactions at scale.
 
